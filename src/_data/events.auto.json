@@ -29,36 +29,6 @@
     "importSource": "wppac"
   },
   {
-    "id": "library-common-ground-let-s-discuss-local-housing-issues-2026-04-14",
-    "slug": "library-common-ground-let-s-discuss-local-housing-issues-2026-04-14",
-    "title": "Common Ground: Let's Discuss Local Housing Issues",
-    "category": "Learning",
-    "shortSummary": "All viewpoints are welcome in this respectful, inclusive space designed to foster dialogue, reflection, and understanding.",
-    "fullDescription": "All viewpoints are welcome in this respectful, inclusive space designed to foster dialogue, reflection, and understanding. Using the World Caf&eacute; model, participants will engage in small-group discussions guided by table captains, with opportunities to interact with a variety of voices throughout the evening. Check the library page for registration, tickets, and any schedule updates.",
-    "startDate": "2026-04-14",
-    "endDate": "2026-04-14",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "locationName": "White Plains Public Library, Auditorium",
-    "locationAddress": "100 Martine Avenue, White Plains, NY 10601",
-    "image": "/assets/img/events/learning.svg",
-    "flyerPdf": null,
-    "externalUrl": "https://calendar.whiteplainslibrary.org/event/14653359",
-    "ctaLabel": "Open library page",
-    "featured": false,
-    "status": "past",
-    "tags": [
-      "educational presentations",
-      "teens",
-      "adults",
-      "library"
-    ],
-    "organizer": "White Plains Public Library",
-    "sourceUrl": "https://calendar.whiteplainslibrary.org/event/14653359",
-    "sourceLabel": "Library calendar",
-    "importSource": "library"
-  },
-  {
     "id": "library-lifting-up-westchester-2026-04-17",
     "slug": "library-lifting-up-westchester-2026-04-17",
     "title": "Lifting Up Westchester",
@@ -3021,7 +2991,7 @@
     "externalUrl": "https://www.cityofwhiteplains.com/Calendar.aspx?EID=4255&month=6&year=2026&day=13&calType=0",
     "ctaLabel": "Open city page",
     "featured": false,
-    "status": "upcoming",
+    "status": "past",
     "tags": [
       "city calendar",
       "downtown"
@@ -3049,7 +3019,7 @@
     "externalUrl": "https://www.cityofwhiteplains.com/Calendar.aspx?EID=4293&month=6&year=2026&day=13&calType=0",
     "ctaLabel": "Open city page",
     "featured": false,
-    "status": "upcoming",
+    "status": "past",
     "tags": [
       "city calendar"
     ],
